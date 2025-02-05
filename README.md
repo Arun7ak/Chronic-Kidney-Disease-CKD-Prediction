@@ -24,4 +24,8 @@ Scikit-Learn for model training
 Matplotlib, Seaborn for data visualization
 📈 Results & Insights
 Random Forest performed better than the Decision Tree model due to its ability to reduce overfitting.
-Feature importance analysis helped identify key medical indicators contributing to CKD diagnosis.
+Feature importance analysis helped identify key medical indicators contributing to CKD diagnosis
+
+🌐 Streamlit Web App
+The trained Random Forest model is deployed in a Streamlit app, providing real-time predictions for CKD based on user input. This app allows users to input their health data and get immediate CKD risk predictions, showcasing the real-world application of machine learning in healthcare.
+
